@@ -1,0 +1,30 @@
+_repo: History-of-the-Intellectual-Development-of-Europe-Volume-II--of-2-Revised-Edition_34051
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Draper, John William
+    alias: Draper, J. W. (John William)
+    birthdate: 1811
+    deathdate: 1882
+    gutenberg_agent_id: '545'
+    url: http://www.gutenberg.org/2009/agents/545
+    wikipedia: http://en.wikipedia.org/wiki/John_William_Draper
+description: ''
+gutenberg_issued: '2010-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34051'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Civilization'
+- !lcc 'CB'
+title: 'History of the Intellectual Development of Europe, Volume II (of 2)
+
+  Revised Edition'
+url: http://www.gutenberg.org/ebooks/34051
