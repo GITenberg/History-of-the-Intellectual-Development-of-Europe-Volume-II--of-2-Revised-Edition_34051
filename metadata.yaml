@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/545
     wikipedia: http://en.wikipedia.org/wiki/John_William_Draper
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34051#History-of-the-Intellectual-Development-of-Europe-Volume-II--of-2-Revised-Edition
 gutenberg_issued: '2010-10-09'
 gutenberg_type: Text
 identifiers:
